@@ -20,3 +20,11 @@ Analyzed a suspicious email for spoofing and malicious intent.
 - Email header analysis
 - IOC extraction
 - Threat assessment
+
+## 📸 Screenshots
+
+### Suspicious Email Sample
+![Email Sample](screenshots/email-sample.png)
+
+### VirusTotal Analysis
+![VirusTotal Result](screenshots/virustotal-result.png)
