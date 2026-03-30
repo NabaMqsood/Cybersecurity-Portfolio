@@ -30,4 +30,4 @@ This repository demonstrates practical cybersecurity projects focused on threat 
 Naba Maqsood
 
 ## GitHub
-https://github.com/YOUR-USERNAME/Cybersecurity-Portfolio
+https://github.com/NabaMqsood/Cybersecurity-Portfolio
