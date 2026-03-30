@@ -34,3 +34,7 @@ Analyzed a suspicious email for spoofing and malicious intent.
 - Identified suspicious activity through log analysis
 - Detected attack patterns using SIEM tools
 - Extracted actionable security insights
+
+## 🚨 Detection Summary
+
+This project demonstrates practical detection of security threats using real-world SIEM techniques and analysis methods.
