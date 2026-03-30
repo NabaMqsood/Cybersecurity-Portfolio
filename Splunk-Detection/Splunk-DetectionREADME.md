@@ -26,3 +26,13 @@ Analyzed login attempts to identify abnormal patterns.
 
 ### Detection Results
 ![Splunk Results](screenshots/splunk-results.png)
+
+## 📌 Key Findings
+
+- Identified suspicious activity through log analysis
+- Detected attack patterns using SIEM tools
+- Extracted actionable security insights
+
+## 🚨 Detection Summary
+
+This project demonstrates practical detection of security threats using real-world SIEM techniques and analysis methods.
