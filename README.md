@@ -31,3 +31,10 @@ Naba Maqsood
 
 ## GitHub
 https://github.com/NabaMqsood/Cybersecurity-Portfolio
+
+## 📸 Project Screenshots
+
+Each project includes real analysis screenshots demonstrating:
+- SIEM dashboards
+- Detection queries
+- Threat investigation results
