@@ -18,3 +18,11 @@ Analyzed login attempts to identify abnormal patterns.
 - SPL query writing
 - Log analysis
 - Threat detection
+
+## 📸 Screenshots
+
+### Splunk Dashboard
+![Splunk Dashboard](screenshots/splunk-dashboard.png)
+
+### Detection Results
+![Splunk Results](screenshots/splunk-results.png)
