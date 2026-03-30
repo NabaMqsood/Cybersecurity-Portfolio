@@ -31,3 +31,13 @@ Used KQL queries to identify repeated failed login attempts (Event ID 4625).
 
 ### KQL Detection Results
 ![KQL Results](screenshots/kql-results.png)
+
+## 📌 Key Findings
+
+- Identified suspicious activity through log analysis
+- Detected attack patterns using SIEM tools
+- Extracted actionable security insights
+
+## 🚨 Detection Summary
+
+This project demonstrates practical detection of security threats using real-world SIEM techniques and analysis methods.
