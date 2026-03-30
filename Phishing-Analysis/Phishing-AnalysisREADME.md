@@ -28,3 +28,9 @@ Analyzed a suspicious email for spoofing and malicious intent.
 
 ### VirusTotal Analysis
 ![VirusTotal Result](screenshots/virustotal-result.png)
+
+## 📌 Key Findings
+
+- Identified suspicious activity through log analysis
+- Detected attack patterns using SIEM tools
+- Extracted actionable security insights
