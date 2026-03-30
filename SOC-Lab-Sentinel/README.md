@@ -23,3 +23,11 @@ Used KQL queries to identify repeated failed login attempts (Event ID 4625).
 - SIEM monitoring
 - KQL query writing
 - Incident investigation
+
+## 📸 Screenshots
+
+### Microsoft Sentinel Dashboard
+![Sentinel Dashboard](screenshots/sentinel-dashboard.png)
+
+### KQL Detection Results
+![KQL Results](screenshots/kql-results.png)
